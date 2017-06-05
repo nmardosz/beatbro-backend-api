@@ -1,0 +1,12 @@
+bcrypt
+cors
+email-templates
+handlebars
+jsonwebtoken
+mkdirp
+mongoose
+nodemailer
+passport-restify
+request
+restify
+uuid4

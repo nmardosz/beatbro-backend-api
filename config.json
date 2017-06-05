@@ -1,0 +1,5 @@
+{
+	"dbPath": "Put your mongo path here (e.g. mongodb://yourmongousername:yourmongopassword@10.0.0.2/beatbro)",
+	"port": 8000,
+	"secret": "Put your secret phrase here to be hashed"
+}
